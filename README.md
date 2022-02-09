@@ -11,4 +11,4 @@ This is an *unofficial* extension not supported in any way by Yahoo.
 3. Navigate to `chrome://extensions` in the Google Chrome browser.
 4. If developer mode is not already turned on, turn it on by pressing the slider at the upper right-hand corner of the page.
 5. Click the "Load unpacked" button.
-6. Point Google Chrome to the directory (folder) that you unzipped in step 2.
+6. The directory (folder) that you unzipped in step 2 should contain a single sub-directory. Load that sub-directory.

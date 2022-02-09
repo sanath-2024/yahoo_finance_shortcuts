@@ -1,6 +1,6 @@
 getTicker = () => document.getElementById('ticker').value;
 createTab = (baseUrl, ticker, subUrl) => {
-    chrome.tabs.create({url: `${baseUrl}/${ticker}/${subUrl}`})
+    chrome.tabs.create({ url: `${baseUrl}/${ticker}/${subUrl}` })
 };
 base = 'https://finance.yahoo.com/quote';
 subUrls = [
