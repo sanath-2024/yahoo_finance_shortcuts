@@ -6,6 +6,11 @@
     "browser_action": {
         "default_popup": "popup.html"
     },
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "yahoo_finance_shortcuts@example.com"
+        }
+    },
     "permissions": [
         "tabs"
     ]
