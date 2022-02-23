@@ -1,0 +1,12 @@
+{
+    "name": "Yahoo Finance Shortcuts",
+    "description": "Shortcuts to get to quotes / information about stocks, futures, indices, and options on Yahoo Finance",
+    "version": "0.2",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
